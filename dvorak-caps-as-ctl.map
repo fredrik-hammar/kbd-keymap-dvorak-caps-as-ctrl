@@ -1,0 +1,2 @@
+include "dvorak.map"
+keycode  58 = Control
